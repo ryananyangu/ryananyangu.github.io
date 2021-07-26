@@ -2,8 +2,8 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Ryan"
+        , "last":   "Ashiruma"
         , "full":   "@{./last} @{./first}"
       }
     , "nick":   "Tom&acute;AS"
@@ -11,18 +11,18 @@
     , "email":  "@{./abbr}@gmail.com"
     , "url":    "http://bit.ly/tomascv"
     , "bio": {
-          "birth":        "October &apos;82"
-        , "citizenship":  "Ukrainian"
+          "birth":        "May &apos;94"
+        , "citizenship":  "Kenyan"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "Kenya"
+            , "city":     "Nairobi"
             , "full":     "@{./country}, @{./city}"
-            , "lat":      50.436336
-            , "lng":      30.488619
+            , "lat":      1.2921
+            , "lng":      36.8219
           }
       }
     , "home": {
-          "pos-prefix": "full-stack"
+          "pos-prefix": "Backend"
         , "pos-title":  "engineer"
         , "pos-tags":   "#high #skilled #experienced #guru"
       }
@@ -31,30 +31,30 @@
             "name":   "linkedin"
           , "title":  "Linkedin profile"
           , "icon":   "fab fa-linkedin"
-          , "url":    "http://bit.ly/tomas-in"
+          , "url":    "https://www.linkedin.com/in/ryan-ashiruma-anyangu/"
         }
       , "git": {
             "name":   "git"
           , "title":  "Github account"
           , "icon":   "fab fa-github"
-          , "url":    "http://bit.ly/tomas-git"
+          , "url":    "https://github.com/ryananyangu/"
         }
       , "bb": {
             "name":   "bitbucket"
           , "title":  "BitBucket repos"
           , "icon":   "fab fa-bitbucket"
-          , "url":    "http://bit.ly/tomas-bb"
+          , "url":    "#"
         }
       , "docker": {
             "name":   "dockerhub"
           , "title":  "Docker Hub"
           , "icon":   "fab fa-docker"
-          , "url":    "http://bit.ly/tomas-hub"
+          , "url":    "https://hub.docker.com/u/jovixe"
         }
       }
     , "contacts": {
-          "cell":   "KzM4MCg2NykgNzgtemVyby0zMS0xOA=="
-        , "email":  "bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=="
+          "cell":   "KzI1NDcwMjA3OTQ5MQ=="
+        , "email":  "bWFpbHRvOnJ5YW5hbnlhbmd1QGdtYWlsLmNvbQ=="
       }
   }
 }
